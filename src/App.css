@@ -1,0 +1,35 @@
+@font-face {
+    font-family: F1Bold;
+    font-display: auto;
+    src: url("./assets/fonts/Formula1-Bold.woff2") format("woff2"), url("./assets/fonts/Formula1-Bold.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+.f1-text-bold {
+    font-family: F1Bold;
+}
+
+.drivers-list_placeholder {
+    height: 206px;
+    display: flex !important;
+    justify-content: center;
+}
+
+.driver-cover {
+    background-image: url("./assets/img/plus-x1.webp");
+    background-repeat: repeat;
+    text-align: center;
+}
+
+.driver-cover:hover {
+    background-color: #4d9aff;
+}
+
+.driver-cover_img {
+    width: auto;
+    height: auto;
+    max-width: 206px;
+    max-height: 206px;
+}
