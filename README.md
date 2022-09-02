@@ -1,5 +1,5 @@
 # Formula 1 - ReactJS Exercise
 
-A fictive project made with the objective of training my ReactJS skills.
+A fictional project made to practice ReactJs.
 
 https://alanvieirads.github.io/formula1/
