@@ -9,7 +9,7 @@ function ProjectInfo() {
           <Col>
             <Alert variant="dark" className="mb-5">
                 <h2 className="f1-text-bold">Project info</h2>
-                <p>This is a fictive project made with the objective of training my ReactJS skills.</p>
+                <p>This is a fictional project made to practice ReactJs.</p>
                 <h3 className="f1-text-bold">What I did here?</h3>
                 <ListGroup className="mb-2">
                     <ListGroup.Item>I start the project using the <b>Vite</b> package for <b>React.</b></ListGroup.Item>
